@@ -8,7 +8,7 @@ A passionate programmer and aspiring **Java Full-Stack Developer**.
 
 💬 Ask me about **C++, Python, SQL, HTML, CSS, React, and DSA problems**.  
 
-📫 How to reach me: [your-email@example.com]
+📫 How to reach me: [manjnathragati704@gmail.com]
 
 ---
 
