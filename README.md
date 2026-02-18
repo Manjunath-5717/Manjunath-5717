@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [MANJUNATH]
 
 A passionate programmer and aspiring **Java Full-Stack Developer**.
 
