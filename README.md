@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Manjunath**
+# 👋 Hi, [I'm **Manjunath]
 
 🎓 Computer Science Engineering Student
 💻 Aspiring **Java Full-Stack Developer** | Passionate about **Problem Solving & Databases**
