@@ -1,45 +1,121 @@
-# Hi 👋, I'm MANJUNATH
+# 👋 Hi, I'm **Manjunath**
 
-A passionate programmer and aspiring **Java Full-Stack Developer**.
+🎓 Computer Science Engineering Student
+💻 Aspiring **Java Full-Stack Developer** | Passionate about **Problem Solving & Databases**
 
-🔭 I’m currently working on improving my **SQL skills** and building projects using **C++ and Python**.  
-
-🌱 I’m currently learning **Java full-stack development**, **React**, and **JavaScript**.  
-
-💬 Ask me about **C++, Python, SQL, HTML, CSS, React, and DSA problems**.  
-
-📫 How to reach me: [manjnathragati704@gmail.com]
+I am a motivated developer focused on building strong programming fundamentals, improving SQL expertise, and developing full-stack applications. I enjoy solving logical problems and continuously learning modern technologies used in the software industry.
 
 ---
 
-## 🚀 Connect with me
+## 🚀 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-profile)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode)
-
----
-
-## 🛠️ Languages & Tools
-
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+🔭 Currently improving my **SQL and database skills** through structured query practice
+🌱 Learning **Java Full-Stack Development** (Java • React • JavaScript)
+🧠 Practicing **Data Structures & Algorithms** using **C++**
+💡 Interested in **Backend Development**, **Database Systems**, and **Full-Stack Applications**
+🎯 Focused on building a strong **GitHub portfolio for placements**
 
 ---
 
-## 🎯 My Goals
+## 🛠️ Tech Stack
 
-- Solve **200 DSA problems in C++** (currently solved 35 on LeetCode)  
-- Become a **SQL Developer** 
-- Build **full-stack applications** with **Java, React, and SQL**
+### 👨‍💻 Programming Languages
+
+* C++
+* Python
+* Java
+* SQL
+
+### 🌐 Web Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+### 🗄️ Databases
+
+* MySQL
+* Oracle SQL
+
+### ⚙️ Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
-I love connecting with other developers and learning together! 😊
+## 📚 Current Learning Focus
+
+* Advanced **SQL Query Writing**
+* **Java Backend Development**
+* **React Frontend Development**
+* **Data Structures & Algorithms**
+* Writing **clean and optimized code**
+
+---
+
+## 🎯 Career Goals
+
+🚀 Solve **200+ DSA problems in C++**
+🚀 Build **real-world full-stack projects** using **Java + React + SQL**
+🚀 Strengthen **database design and query optimization skills**
+🚀 Become a **skilled Software Developer**
+
+---
+
+## 📊 Coding Progress
+
+📌 Solved **35+ problems on LeetCode**
+📌 Practicing structured **SQL queries using EMP & DEPT tables**
+📌 Building topic-wise repositories for **SQL and programming practice**
+
+---
+
+## 📂 Featured Work
+
+🔹 **SQL Practice Repository**
+A structured collection of SQL queries covering:
+
+* Projection Queries
+* WHERE Clause & Operators
+* Aggregate Functions
+* GROUP BY & HAVING
+* Subqueries
+* Self Joins
+* Multiple Joins
+
+📌 Repository:
+https://github.com/Manjunath-5717
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:**
+[manjnathragati704@gmail.com](mailto:manjnathragati704@gmail.com)
+
+🌐 **Profiles**
+
+* 💻 GitHub:
+  https://github.com/Manjunath-5717
+
+* 🔗 LinkedIn:
+  *(Add your LinkedIn profile link here)*
+
+* 🏆 CodeChef:
+  *(Add your CodeChef profile link here)*
+
+* ⚡ LeetCode:
+  *(Add your LeetCode profile link here)*
+
+---
+
+## 🌟 Developer Mindset
+
+> *"Consistency, curiosity, and continuous learning are the keys to becoming a great developer."*
+
+---
+
+⭐ **Thanks for visiting my profile!**
