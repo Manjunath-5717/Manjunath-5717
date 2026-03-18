@@ -1,30 +1,30 @@
-# 👋 Hi, [I'm Manjunath]
+# 👋 Hi, I'm Manjunath
 
-🎓 Computer Science Engineering Student# 👋 Hi, I'm Manjunath
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Problem+Solver;SQL+Enthusiast;Future+Software+Engineer)
 
 🎓 Computer Science Engineering Student  
-💻 **Java Full-Stack Developer (Aspirant)** | Problem Solver | Database Enthusiast  
+💻 **Aspiring Java Full-Stack Developer** | Backend & Database Focus  
 
 ---
 
 ## 🚀 About Me
 
-I am a focused and disciplined Computer Science student with a strong interest in **backend development, databases, and scalable applications**.
+I am a dedicated Computer Science student with a strong focus on **backend development, database systems, and scalable application design**.
 
-- 🔭 Currently mastering **SQL & Database Design**
-- 🌱 Learning **Java Full-Stack Development (Java + React + REST APIs)**
-- 🧠 Solving **Data Structures & Algorithms (C++)**
-- 💡 Passionate about **building real-world applications**
-- 🎯 Preparing seriously for **product-based company placements**
+- 🔭 Currently building **real-world Java + SQL projects**
+- 🌱 Learning **Full-Stack Development (Java + React + REST APIs)**
+- 🧠 Practicing **Data Structures & Algorithms (C++)**
+- 💡 Strong interest in **Database Optimization & Backend Logic**
+- 🎯 Goal: **Crack product-based company placements**
 
 ---
 
 ## 🧠 Core Strengths
 
-✔ Strong **problem-solving mindset**  
-✔ Solid understanding of **SQL & relational databases**  
-✔ Consistent **self-learner from rural background**  
-✔ Focused on **writing clean & optimized code**
+✔ Strong problem-solving skills  
+✔ Good understanding of SQL & relational databases  
+✔ Consistent learner with disciplined approach  
+✔ Focused on writing clean, efficient code  
 
 ---
 
@@ -34,54 +34,69 @@ I am a focused and disciplined Computer Science student with a strong interest i
 `C++` `Java` `Python` `SQL`
 
 ### 🌐 Frontend
-`HTML5` `CSS3` `JavaScript` `React`
+`HTML` `CSS` `JavaScript` `React`
 
 ### ⚙️ Backend & Database
-`Java (Core)` `JDBC` `MySQL` `Oracle SQL`
+`Java` `JDBC` `MySQL` `Oracle SQL`
 
 ### 🔧 Tools
 `Git` `GitHub` `VS Code`
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-- 📌 Advanced **SQL (Joins, Subqueries, Optimization)**
-- 📌 **Java Backend Development (JDBC, Servlets - upcoming)**
-- 📌 **React Projects**
-- 📌 **DSA (Target: 200+ Problems)**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manjunath-5717&show_icons=true)
 
----
-
-## 📊 Coding Journey
-
-- ✅ Solved **35+ problems on LeetCode**
-- ✅ Practicing structured SQL using **EMP & DEPT tables**
-- ✅ Building **topic-wise repositories for consistency**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-5717&layout=compact)
 
 ---
 
-## 📂 Featured Work
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manjunath-5717)
+
+---
+
+## 🏆 Coding Progress
+
+- ✅ Solved **35+ DSA problems** (Target: 200+)
+- ✅ Practicing **Advanced SQL Queries**
+- ✅ Building **project-based learning repositories**
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Student Management System (Java + SQL)
+- CRUD operations using JDBC  
+- Database design with optimized queries  
+- Console-based application  
 
 ### 🔹 SQL Practice Repository
-A well-structured collection of SQL queries covering:
+- Covers Joins, Subqueries, Aggregates  
+- Real-world query scenarios  
 
-- ✔ Basic to Advanced Queries  
-- ✔ Aggregate Functions  
-- ✔ Joins & Subqueries  
-- ✔ Real-world database scenarios  
+🔗 GitHub:  
+👉 https://github.com/Manjunath-5717  
 
-🔗 **GitHub:**  
-👉 https://github.com/Manjunath-5717
+---
+
+## 📈 Current Focus
+
+- 📌 Advanced SQL (Joins, Subqueries, Optimization)  
+- 📌 Java Backend Development (JDBC → Servlets → Spring Boot)  
+- 📌 React Frontend Development  
+- 📌 DSA (Daily Practice)  
 
 ---
 
 ## 🎯 2026 Goals
 
 🚀 Solve **200+ DSA problems**  
-🚀 Build **3–5 Full-Stack Projects (Java + React + SQL)**  
-🚀 Become **placement-ready for top tech companies**  
-🚀 Master **database design & query optimization**
+🚀 Build **3–5 Full-Stack Projects**  
+🚀 Master **Java Backend Development**  
+🚀 Become **placement-ready software developer**  
 
 ---
 
@@ -94,138 +109,20 @@ A well-structured collection of SQL queries covering:
 👉 https://github.com/Manjunath-5717  
 
 🔗 LinkedIn:  
-👉 *Add your link here*  
+👉 https://linkedin.com/in/YOUR-LINK  
 
 ⚡ LeetCode:  
-👉 *Add your profile*  
+👉 https://leetcode.com/YOUR-USERNAME  
 
 🏆 CodeChef:  
-👉 *Add your profile*  
+👉 https://codechef.com/users/YOUR-USERNAME  
 
 ---
 
 ## ⚡ Developer Philosophy
 
-> **"Discipline beats motivation. Consistency builds mastery."**
+> **"Consistency + Discipline = Success in Software Engineering"**
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-💻 Aspiring **Java Full-Stack Developer** | Passionate about **Problem Solving & Databases**
-
-I am a motivated developer focused on building strong programming fundamentals, improving SQL expertise, and developing full-stack applications. I enjoy solving logical problems and continuously learning modern technologies used in the software industry.
-
----
-
-## 🚀 About Me
-
-🔭 Currently improving my **SQL and database skills** through structured query practice
-🌱 Learning **Java Full-Stack Development** (Java • React • JavaScript)
-🧠 Practicing **Data Structures & Algorithms** using **C++**
-💡 Interested in **Backend Development**, **Database Systems**, and **Full-Stack Applications**
-🎯 Focused on building a strong **GitHub portfolio for placements**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-* C++
-* Python
-* Java
-* SQL
-
-### 🌐 Web Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-
-### 🗄️ Databases
-
-* MySQL
-* Oracle SQL
-
-### ⚙️ Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-
----
-
-## 📚 Current Learning Focus
-
-* Advanced **SQL Query Writing**
-* **Java Backend Development**
-* **React Frontend Development**
-* **Data Structures & Algorithms**
-* Writing **clean and optimized code**
-
----
-
-## 🎯 Career Goals
-
-🚀 Solve **200+ DSA problems in C++**
-🚀 Build **real-world full-stack projects** using **Java + React + SQL**
-🚀 Strengthen **database design and query optimization skills**
-🚀 Become a **skilled Software Developer**
-
----
-
-## 📊 Coding Progress
-
-📌 Solved **35+ problems on LeetCode**
-📌 Practicing structured **SQL queries using EMP & DEPT tables**
-📌 Building topic-wise repositories for **SQL and programming practice**
-
----
-
-## 📂 Featured Work
-
-🔹 **SQL Practice Repository**
-A structured collection of SQL queries covering:
-
-* Projection Queries
-* WHERE Clause & Operators
-* Aggregate Functions
-* GROUP BY & HAVING
-* Subqueries
-* Self Joins
-* Multiple Joins
-
-📌 Repository:
-https://github.com/Manjunath-5717
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:**
-[manjnathragati704@gmail.com](mailto:manjnathragati704@gmail.com)
-
-🌐 **Profiles**
-
-* 💻 GitHub:
-  https://github.com/Manjunath-5717
-
-* 🔗 LinkedIn:
-  *(Add your LinkedIn profile link here)*
-
-* 🏆 CodeChef:
-  *(Add your CodeChef profile link here)*
-
-* ⚡ LeetCode:
-  *(Add your LeetCode profile link here)*
-
----
-
-## 🌟 Developer Mindset
-
-> *"Consistency, curiosity, and continuous learning are the keys to becoming a great developer."*
-
----
-
-⭐ **Thanks for visiting my profile!**
+⭐ *Always learning. Always building.*
