@@ -1,100 +1,101 @@
-# 👋 Hi, I'm Manjunath
+# Manjunath R
 
-🎓 Computer Science Engineering Student
-💻 **Aspiring Java Backend Developer**
-
----
-
-## 🚀 Professional Summary
-
-Motivated and disciplined Computer Science student focused on **Java backend development, database systems, and scalable applications**.
-
-💡 Passionate about building efficient backend systems using **Java + SQL** and continuously improving problem-solving skills.
+Computer Science Engineering Student  
+Aspiring Backend Developer (Java | Spring Boot)
 
 ---
 
-## 🧠 Core Competencies
+## Professional Summary
 
-✔️ Backend Development (Java & JDBC)
-✔️ Relational Databases (MySQL, Oracle SQL)
-✔️ Data Structures & Algorithms
-✔️ SQL Query Optimization
-✔️ Clean & Maintainable Code
+Focused Computer Science student with strong foundations in Java, SQL, and backend development.
 
----
+Skilled in building scalable backend systems, designing efficient databases, and solving problems using Data Structures & Algorithms.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-`Java` `C++` `Python` `SQL`
-
-### ⚙️ Backend & Databases
-
-`Java` `JDBC` `Spring Boot (Learning)` `MySQL` `Oracle SQL`
-
-### 🌐 Frontend
-
-`HTML` `CSS` `JavaScript` `React (Learning)`
-
-### 🔧 Tools
-
-`Git` `GitHub` `VS Code`
+Currently strengthening expertise in Spring Boot and REST APIs to become industry-ready for software engineering roles.
 
 ---
 
-## 📂 Projects
+## Core Skills
 
-### 🔹 Student Management System
-
-🛠️ **Java, JDBC, MySQL**
-
-* Built a backend system with full **CRUD operations**
-* Designed structured relational database
-* Implemented optimized SQL queries
+- Backend Development: Java, JDBC, REST APIs  
+- Database Management: MySQL, Oracle SQL  
+- Problem Solving: Data Structures & Algorithms  
+- Query Optimization & Performance Tuning  
+- Clean, Maintainable Code Practices  
 
 ---
 
-### 🔹 SQL Practice Repository
+## Tech Stack
 
-📊 Focused on **Joins, Subqueries, Aggregations**
-⚡ Improved query performance and problem-solving
+Languages:  
+Java | C++ | Python | SQL  
 
----
+Backend:  
+Java | JDBC | Spring Boot (Learning)  
 
-## 📊 Coding Progress
+Database:  
+MySQL | Oracle SQL  
 
-📌 Solved **35+ DSA problems** (Target: 200+)
-📌 Practicing **Advanced SQL & Optimization**
-📌 Building backend-focused projects consistently
+Frontend:  
+HTML | CSS | JavaScript | React (Learning)  
 
----
-
-## 🎯 Career Objective
-
-🚀 To become a **Software Engineer** in a product-based company and contribute to building **scalable backend systems**.
+Tools:  
+Git | GitHub | VS Code  
 
 ---
 
-## 📈 Current Focus
+## Projects
 
-📌 Spring Boot & REST APIs
-📌 Advanced SQL
-📌 Daily DSA Practice
-📌 Backend Projects
+### Student Management System  
+Tech: Java, JDBC, MySQL  
 
----
-
-## 🌐 Connect With Me
-
-📧 Email: [manjnathragati704@gmail.com](mailto:manjnathragati704@gmail.com)
-💻 GitHub: https://github.com/Manjunath-5717
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
-⚡ LeetCode: https://leetcode.com/YOUR-USERNAME
-🏆 CodeChef: https://codechef.com/users/YOUR-USERNAME
+- Developed a backend application supporting full CRUD operations  
+- Designed normalized relational database schema  
+- Improved performance using optimized SQL queries  
 
 ---
 
-## ⚡ Developer Mindset
+### SQL Practice Repository  
 
-🔥 **"Consistency and discipline build strong engineers."**
+- Solved real-world problems using Joins, Subqueries, Aggregations  
+- Focused on writing efficient and optimized SQL queries  
+- Strengthened database problem-solving skills  
+
+---
+
+## Coding Progress
+
+- Solved 35+ DSA problems (Target: 200+)  
+- Practicing Advanced SQL & Query Optimization  
+- Building backend-focused projects consistently  
+
+---
+
+## Career Goal
+
+To secure a Software Engineer role in a product-based company and contribute to building high-performance backend systems.
+
+---
+
+## Current Focus
+
+- Spring Boot & REST API Development  
+- Advanced SQL & Database Optimization  
+- Daily DSA Practice  
+- Real-world Backend Projects  
+
+---
+
+## Profiles
+
+Email: manjnathragati704@gmail.com  
+GitHub: https://github.com/Manjunath-5717  
+LinkedIn: https://linkedin.com/in/YOUR-LINK  
+LeetCode: https://leetcode.com/YOUR-USERNAME  
+CodeChef: https://codechef.com/users/YOUR-USERNAME  
+
+---
+
+## Mindset
+
+Consistency + Discipline = Strong Engineering Skills
