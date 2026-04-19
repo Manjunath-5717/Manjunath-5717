@@ -1,24 +1,23 @@
 # Manjunath R
 
 📧 [manjnathragati704@gmail.com](mailto:manjnathragati704@gmail.com)
-🔗 GitHub: https://github.com/Manjunath-5717
-LinkedIn: (Update Link)
-LeetCode: (Update Link)
+🔗 https://github.com/Manjunath-5717
+LinkedIn: (Update Link) | LeetCode: (Update Link)
 
 ---
 
 ## Professional Summary
 
-Computer Science Engineering student with strong foundations in Java, SQL, and backend development. Skilled in building RESTful APIs, database design, and writing optimized queries.
+Backend-focused Computer Science Engineering student with strong foundations in Java and SQL. Experienced in building RESTful services, designing relational databases, and writing efficient queries.
 
-Currently focused on Spring Boot, Data Structures & Algorithms, and building production-level backend systems to become industry-ready for software engineering roles.
+Currently developing expertise in Spring Boot and Data Structures & Algorithms, with a focus on building scalable and maintainable backend systems.
 
 ---
 
 ## Technical Skills
 
 **Languages:** Java, C++, Python, SQL
-**Backend:** Java, JDBC, Spring Boot (Learning), REST APIs
+**Backend:** Java, JDBC, REST APIs, Spring Boot (Learning)
 **Databases:** MySQL, Oracle SQL
 **Concepts:** OOP, DBMS, Data Structures & Algorithms, Query Optimization
 **Tools:** Git, GitHub, VS Code
@@ -31,49 +30,47 @@ Currently focused on Spring Boot, Data Structures & Algorithms, and building pro
 
 *Java, JDBC, MySQL*
 
-* Built a backend system supporting full CRUD operations for managing student records
-* Designed normalized relational database schema ensuring data consistency
-* Optimized SQL queries for faster data retrieval
-* Followed modular coding practices for maintainability
+* Designed and implemented a backend system for managing student data with full CRUD functionality
+* Developed a structured relational database schema ensuring data consistency
+* Improved query performance through optimized SQL operations
+* Maintained clean and modular code for scalability
 
 ---
 
 ### SQL Practice Repository
 
-* Solved real-world SQL problems using Joins, Subqueries, and Aggregations
-* Focused on writing efficient and optimized queries
-* Improved database querying and problem-solving skills
+* Solved practical database problems using Joins, Subqueries, and Aggregations
+* Focused on writing efficient and optimized SQL queries
+* Strengthened understanding of relational data handling and performance tuning
 
 ---
 
-## Coding & Problem Solving
+## Problem Solving
 
-* Solved 35+ DSA problems (Arrays, Strings, Basics)
-* Currently learning Trees, Recursion, and Dynamic Programming
-* Active on LeetCode and CodeChef
+* Practicing Data Structures & Algorithms with focus on core problem-solving patterns
+* Topics covered include Arrays, Strings, and foundational algorithms
+* Currently expanding into Trees, Recursion, and advanced problem-solving
 
 ---
 
 ## Education
 
-**B.E. in Computer Science Engineering**
-CGPA: 7.7 (till 6th semester)
+Bachelor of Engineering in Computer Science Engineering
 
-**Diploma in Computer Science**
-CGPA: 9.33 (Topper)
+Diploma in Computer Science
 
 ---
 
 ## Career Objective
 
-To secure a Software Engineer role and build scalable, high-performance backend systems in a product-based company.
+To work as a Software Engineer and contribute to building scalable, high-performance backend systems in a growth-oriented environment.
 
 ---
 
-## Strengths
+## Additional Information
 
-* Strong problem-solving mindset
-* Consistent and disciplined learner
-* Focused on backend engineering excellence
+* Strong focus on backend development and system design fundamentals
+* Consistent practice in coding and database optimization
+* Interested in building real-world, production-level applications
 
 ---
