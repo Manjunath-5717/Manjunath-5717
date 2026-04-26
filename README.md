@@ -1,6 +1,6 @@
 # Manjunath R
 
-📧 [manjnathragati704@gmail.com](mailto:manjnathragati704@gmail.com)
+📧 manjnathragati704@gmail.com(mailto:manjnathragati704@gmail.com)
 🔗 https://github.com/Manjunath-5717
 LinkedIn: (Update Link) | LeetCode: (Update Link)
 
