@@ -1,76 +1,60 @@
-# Manjunath R
+# 👨‍💻 Manjunath R  
 
-📧 manjnathragati704@gmail.com(mailto:manjnathragati704@gmail.com)
-🔗 https://github.com/Manjunath-5717
-LinkedIn: (Update Link) | LeetCode: (Update Link)
+💻 Backend Developer | ☕ Java Enthusiast  
 
 ---
 
-## Professional Summary
-
-Backend-focused Computer Science Engineering student with strong foundations in Java and SQL. Experienced in building RESTful services, designing relational databases, and writing efficient queries.
-
-Currently developing expertise in Spring Boot and Data Structures & Algorithms, with a focus on building scalable and maintainable backend systems.
+## 📌 About  
+CSE student focused on **Java Backend Development**.  
+I build clean, structured, and scalable systems while understanding how things work internally.  
 
 ---
 
-## Technical Skills
+## 🚀 Tech Stack  
 
-**Languages:** Java, C++, Python, SQL
-**Backend:** Java, JDBC, REST APIs, Spring Boot (Learning)
-**Databases:** MySQL, Oracle SQL
-**Concepts:** OOP, DBMS, Data Structures & Algorithms, Query Optimization
-**Tools:** Git, GitHub, VS Code
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+**Web:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Projects
+**Database:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Student Management System
-
-*Java, JDBC, MySQL*
-
-* Designed and implemented a backend system for managing student data with full CRUD functionality
-* Developed a structured relational database schema ensuring data consistency
-* Improved query performance through optimized SQL operations
-* Maintained clean and modular code for scalability
-
----
-
-### SQL Practice Repository
-
-* Solved practical database problems using Joins, Subqueries, and Aggregations
-* Focused on writing efficient and optimized SQL queries
-* Strengthened understanding of relational data handling and performance tuning
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## Problem Solving
+## 📊 GitHub Stats  
 
-* Practicing Data Structures & Algorithms with focus on core problem-solving patterns
-* Topics covered include Arrays, Strings, and foundational algorithms
-* Currently expanding into Trees, Recursion, and advanced problem-solving
-
----
-
-## Education
-
-Bachelor of Engineering in Computer Science Engineering
-
-Diploma in Computer Science
+![Stats](https://github-readme-stats.vercel.app/api?username=Manjunath-5717&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-5717&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Manjunath-5717&theme=tokyonight)
 
 ---
 
-## Career Objective
+## 📚 Learning  
+Java • DSA • Spring Boot • REST APIs  
 
-To work as a Software Engineer and contribute to building scalable, high-performance backend systems in a growth-oriented environment.
+---
+
+## 🎯 Goals 2025  
+✔ Core Java  
+✔ DSA Practice  
+✔ Spring Boot Projects  
+✔ Full Stack App  
+✔ Open Source  
 
 ---
 
-## Additional Information
-
-* Strong focus on backend development and system design fundamentals
-* Consistent practice in coding and database optimization
-* Interested in building real-world, production-level applications
-
----
+## 🌐 Connect  
+📧 manjunathragati704@gmail.com  
+💻 github.com/Manjunath-5717  
