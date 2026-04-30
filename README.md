@@ -1,4 +1,4 @@
-# 👨‍💻 Manjunath A R  
+# 👨‍💻 Manjunath  
 
 💻 Backend Developer | ☕ Java Enthusiast  
 
