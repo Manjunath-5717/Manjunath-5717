@@ -1,6 +1,6 @@
 # 👨‍💻 Manjunath  
 
-💻 Backend Developer | ☕ Java Enthusiast  
+💻 Backend Developer | ☕ Java Enthusiast  | SQL Developer
 
 ---
 
@@ -51,10 +51,12 @@ Java • DSA • Spring Boot • REST APIs
 ✔ DSA Practice  
 ✔ Spring Boot Projects  
 ✔ Full Stack App  
-✔ Open Source  
+✔ Open Source 
+
 
 ---
 
 ## 🌐 Connect  
 📧 manjunathragati704@gmail.com  
 💻 github.com/Manjunath-5717  
+
