@@ -137,7 +137,7 @@ public final class ManjunathRagati implements Engineer, ProblemSolver {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjunath-5717&bg_color=0d1117&color=4FC3F7&line=0d47a1&point=4FC3F7&area=true&area_color=0d1b2a&hide_border=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Manjunath-5717/Manjunath-5717/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
 </div>
 
 <br/>
