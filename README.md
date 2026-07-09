@@ -16,7 +16,7 @@
 
 <br/>
 
---
+---
 
 <div align="center">
 <h2>◈ &nbsp; W H O &nbsp; A M &nbsp; I &nbsp; ◈</h2>
@@ -133,7 +133,7 @@ public final class ManjunathRagati implements Engineer, ProblemSolver {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath-5717&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=0d47a1&fire=FF9D00&currStreakLabel=4FC3F7&sideLabels=4FC3F7"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Manjunath-5717&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=0d47a1&fire=FF9D00&currStreakLabel=4FC3F7&sideLabels=4FC3F7"/>
 </div>
 
 <div align="center">
