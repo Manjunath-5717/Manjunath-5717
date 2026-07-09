@@ -48,9 +48,6 @@ CSE undergraduate focused on backend engineering. I like turning messy business 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manjunath-5717&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath-5717&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9"/>
-
 <img width="60%" src="https://streak-stats.demolab.com/?user=Manjunath-5717&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=0d47a1&fire=FF9D00"/>
 
 </div>
