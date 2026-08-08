@@ -75,6 +75,6 @@ CSE undergraduate focused on backend engineering. I like turning messy business 
 **Open to internships, backend roles, and collaborations — feel free to reach out.**
 
 </div>
-<br>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:14213d,100:0a0a0f&height=100&section=footer" width="100%"/>
